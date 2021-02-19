@@ -24,6 +24,7 @@ include_once 'inc/funciones/funciones.php';
             </div>
         </form>
     </div>
-    <script src="js/sweetalert2.all.min.js"></script>
-</body>
-</html>
+   
+<?php 
+include_once 'inc/templates/footer.php';
+?> 
